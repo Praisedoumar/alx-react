@@ -1,5 +1,8 @@
 0x07. React Redux action creator+normalizr
 
+![image](https://github.com/Praisedoumar/alx-react/assets/110107990/8345b05b-0a1c-43ba-9c86-244e0f4fb428)
+
+
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
