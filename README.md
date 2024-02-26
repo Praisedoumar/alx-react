@@ -10,4 +10,4 @@ How to split your code into chunks
 How to setup a dev server
 Requirements
 Project is done by Adigun Praise O
-# alx-react
+# alx-react#
