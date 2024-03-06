@@ -1,6 +1,5 @@
 Learning Objectives
 At the end of this project, you should be able to explain to anyone, without the help of Google:
-
 The purpose of a reducer and the role it plays within your application
 Why a reducer should stay as pure as possible
 Why mutations should not happen within a reducer
@@ -14,3 +13,5 @@ All your files will be interpreted/compiled on Ubuntu 18.04 LTS using node 12.x.
 A README.md file, at the root of the folder of the project, is mandatory
 Push all of your files, including package.json and .babelrc
 All of your functions must be exported
+
+This task was done by Adigun Praise 
